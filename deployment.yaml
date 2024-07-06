@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: httpd
-        image: kirenaananth/fantasyroller:latest
+        image: kirenaananth/fantasyroller
         ports:
         - containerPort: 80
